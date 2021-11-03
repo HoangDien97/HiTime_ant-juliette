@@ -1413,7 +1413,7 @@ a.link_f:hover {
 }
 
 #rps-menu input:checked+.test {
-    height: 250px;
+    height: 290px;
 }
 
 #rps-menu ul#respon-menu {
@@ -1434,4 +1434,17 @@ a.link_f:hover {
     font-family: 'Montserrat', sans-serif;
     font-size: 13px;
     font-weight: 700;
+}
+
+#rps-menu .account-submenu {
+    margin-left: 14px;
+    font-size: 14px;
+}
+
+#rps-menu .account-submenu .login {
+    color: #c1582a;
+}
+
+#rps-menu .account-submenu .register {
+    color: #c1582a;
 }
