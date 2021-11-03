@@ -1,0 +1,274 @@
+    @media (min-width: 414px) {
+        /* Header----------------- */
+        #logo img {
+            max-width: 222px;
+            min-height: 85px;
+            padding-top: 32px;
+            margin-left: -4px;
+            margin-top: -24px;
+        }
+        #rps-menu {
+            float: right;
+            margin-top: -29px;
+            margin-right: -174px;
+        }
+        form#search input {
+            width: 357px;
+            height: 40px;
+            border: none;
+            outline: none;
+            padding: 9 px 42 px 9 px 15 px;
+            color: rgb(58, 47, 47);
+            background: #f5f5f5;
+            margin: 15px 0 0 -65px;
+            border-radius: 50rem;
+            /* border: 1px solid #ff6564; */
+        }
+        form#search button {
+            top: 12px;
+            left: 320px;
+            position: absolute;
+            /* color: #cdc7c7; */
+            background: none;
+            /* border: 1px solid red; */
+            border: none;
+            padding: 9px 12px;
+            font-size: 18px;
+            outline: none;
+        }
+        /* Coupon----------- */
+        #coupon {
+            background: #ffded9;
+            padding-top: 14px;
+            margin-top: 108px;
+            margin-bottom: 5px;
+        }
+        /* Slider---------- */
+        #slider img {
+            width: 414px;
+            height: 200px;
+        }
+        #slider {
+            margin-top: 50px;
+        }
+        /* Product Category  */
+        #product-category h1 {
+            font-family: 'Montserrat', sans-serif;
+            font-weight: bold;
+            font-size: 20px;
+            z-index: 1;
+            position: relative;
+            display: inline-block;
+            padding: 10px 25px;
+            color: #000;
+        }
+        #product-category #products-new {
+            font-family: 'Open Sans', sans-serif;
+            padding-top: 20px;
+        }
+        #blooming-summer .product-item-b {
+            margin-left: 66px;
+        }
+        #blooming-summer h2.product-item-title {
+            position: absolute;
+            top: 90px;
+            font-size: 20px;
+            padding: 0px 45px;
+            text-transform: uppercase;
+            font-weight: 700;
+            text-align: center;
+        }
+        /* Product NEW------------------- */
+        #prd_new .product-item-b {
+            margin-left: 66px;
+        }
+        #prd_new h2.product-item-title {
+            position: absolute;
+            top: 90px;
+            font-size: 20px;
+            padding: 0px 45px;
+            text-transform: uppercase;
+            font-weight: 700;
+            text-align: center;
+        }
+        /* Product NEW 2------------------- */
+        #prdnew h2.product-item-title {
+            position: absolute;
+            top: 90px;
+            font-size: 20px;
+            padding: 0px 45px;
+            text-transform: uppercase;
+            font-weight: 700;
+            text-align: center;
+        }
+        #prdnew .product-item-b {
+            margin-left: 66px;
+        }
+        /* News------------------------- */
+        #share h3 {
+            font-size: 19px;
+        }
+        /* Trend Summer------------------ */
+        #trend-summer .list-unstyled {
+            padding-left: 0px;
+            padding-right: 0px;
+            margin-top: -2px;
+            list-style: none;
+        }
+        #trend-summer .trending-img img {
+            max-width: 414px;
+            min-height: 537px;
+        }
+        /* Footer------------- */
+        #footer .wp_about_us_f {
+            margin-bottom: 40px;
+        }
+        #footer .wp_information_f {
+            margin-bottom: 40px;
+        }
+        #footer .wp_support_f {
+            margin-bottom: 40px;
+        }
+        /* PRODUCT-DETAIL------------------- */
+        /* Breadcrumb------- */
+        #breadcrumb .breadcrumb {
+            padding: 0px;
+            margin-left: 18px;
+            margin-top: 11px;
+        }
+    }
+    
+    @media (min-width: 576px) {}
+    
+    @media (min-width: 768px) {}
+    
+    @media (min-width: 992px) {}
+    
+    @media (min-width: 1200px) {
+        .container {
+            max-width: 1170px;
+        }
+        /* Header-------------------- */
+        #logo img {
+            max-width: 222px;
+            min-height: 85px;
+            padding-top: 50px;
+            margin-left: 2px;
+            margin-top: -39px;
+        }
+        form#search input {
+            width: 463px;
+            height: 40px;
+            border: none;
+            outline: none;
+            padding: 9px 42px 9px 15px;
+            color: rgb(58, 47, 47);
+            background: #f5f5f5;
+            margin: 6px 0 0 10px;
+            border-radius: 50rem;
+            border: 1px solid #E8E8E8;
+        }
+        form#search button {
+            position: absolute;
+            top: 4px;
+            left: 498px;
+            /* color: #cdc7c7; */
+            background: none;
+            /* border: 1px solid red; */
+            border: none;
+            padding: 9px 12px;
+            font-size: 18px;
+            outline: none;
+        }
+        /* Coupon----------- */
+        #coupon {
+            background: #ffded9;
+            padding-top: 14px;
+            margin-top: -25px;
+            margin-bottom: 5px;
+        }
+        /* Slider---------------- */
+        #slider img {
+            width: 1903px;
+            height: 853px;
+        }
+        #slider {
+            margin-top: 0px;
+        }
+        /*  Product Category   */
+        #product-category h1 {
+            font-family: 'Montserrat', sans-serif;
+            font-weight: bold;
+            font-size: 28px;
+            z-index: 1;
+            position: relative;
+            display: inline-block;
+            padding: 10px 25px;
+            color: #000;
+        }
+        #product-category #products-new {
+            font-family: 'Open Sans', sans-serif;
+            padding-top: 90px;
+        }
+        /* Product Featured------------------- */
+        #blooming-summer .product-item-b {
+            margin-left: 0px;
+        }
+        #blooming-summer h2.product-item-title {
+            position: absolute;
+            top: 90px;
+            font-size: 30px;
+            padding: 0px 45px;
+            text-transform: uppercase;
+            font-weight: 700;
+            text-align: center;
+        }
+        /* Product NEW------------------- */
+        #prd_new .product-item-b {
+            margin-left: 0px;
+        }
+        #prd_new h2.product-item-title {
+            position: absolute;
+            top: 90px;
+            font-size: 30px;
+            padding: 0px 45px;
+            text-transform: uppercase;
+            font-weight: 700;
+            text-align: center;
+        }
+        /* Product NEW 2------------------- */
+        #prdnew h2.product-item-title {
+            position: absolute;
+            top: 90px;
+            font-size: 30px;
+            padding: 0px 45px;
+            text-transform: uppercase;
+            font-weight: 700;
+            text-align: center;
+        }
+        #prdnew .product-item-b {
+            margin-left: 0px;
+        }
+        /* News------------------------- */
+        #share h3 {
+            font-size: 28px;
+        }
+        /* Trend Summer------------------ */
+        #trend-summer .list-unstyled {
+            padding-left: 82px;
+            padding-right: 22px;
+            margin-top: -2px;
+            list-style: none;
+        }
+        #trend-summer .trending-img img {
+            max-width: 537px;
+            min-height: 537px;
+        }
+        /* PRODUCT-DETAIL------------------- */
+        /* Breadcrumb------- */
+        #breadcrumb .breadcrumb {
+            padding: 0px;
+            margin-left: 18px;
+            margin-top: 11px;
+        }
+    }
