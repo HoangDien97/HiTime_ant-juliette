@@ -615,14 +615,14 @@ a.link {
 /* Trend-summer----------------------- */
 
 #trend-summer {
-    /* background: #008848; */
+    background: #fef5f0;
     margin-bottom: 30px;
 }
 
 #trend-summer .list-unstyled {
     padding-left: 82px;
     padding-right: 22px;
-    margin-top: -2px;
+    margin-top: 45px;
     list-style: none;
 }
 
@@ -738,8 +738,8 @@ a.link {
     padding: 1px;
     display: block;
     float: left;
-    width: 360px;
-    /* margin-bottom: 30px; */
+    width: 272px;
+    margin-bottom: 95px;
 }
 
 #trend-summer .product-item:hover {
